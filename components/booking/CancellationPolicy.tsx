@@ -1,5 +1,3 @@
-// components/booking/CancellationPolicy.tsx
-
 import React from 'react';
 
 const CancellationPolicy: React.FC = () => (

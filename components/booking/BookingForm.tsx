@@ -1,5 +1,3 @@
-// components/booking/BookingForm.tsx
-
 import React from 'react';
 
 const InputField: React.FC<{ label: string; type: string; placeholder?: string }> = ({ label, type, placeholder }) => (

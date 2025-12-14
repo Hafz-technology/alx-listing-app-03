@@ -1,8 +1,5 @@
-// components/booking/OrderSummary.tsx
-
 import React from 'react';
 
-// Define the expected shape of the booking details for TypeScript
 interface BookingDetails {
   propertyName: string;
   price: number;

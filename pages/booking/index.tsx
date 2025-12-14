@@ -1,12 +1,10 @@
-// pages/booking/index.tsx
-
 import BookingForm from "@/components/booking/BookingForm";
 import OrderSummary from "@/components/booking/OrderSummary";
 import CancellationPolicy from "@/components/booking/CancellationPolicy";
 import Head from 'next/head';
 
 export default function BookingPage() {
-  // Static data as required by the instructions
+ 
   const bookingDetails = {
     propertyName: "Villa Arrecife Beach House",
     price: 7500, // Price per night
